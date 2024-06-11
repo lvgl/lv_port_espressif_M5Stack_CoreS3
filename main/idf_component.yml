@@ -1,0 +1,4 @@
+description: BSP Display rotation example
+dependencies:
+  m5stack_core_s3:
+    version: "*"
