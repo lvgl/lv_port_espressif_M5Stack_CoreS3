@@ -1,5 +1,8 @@
 # LVGL ported to M5Stack CoreS3
 
+
+**Archived as it was made available in [lv_esp_idf](https://github.com/lvgl/lv_esp_idf).**
+
 ## Overview
 
 This is LVGL ported to [M5Stack CoreS3](https://github.com/espressif/esp-bsp/tree/master/bsp/m5stack_core_s3) with using Espressif [BSP](https://github.com/espressif/esp-bsp). This example shows LVGL music demo.
